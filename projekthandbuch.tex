@@ -8,15 +8,18 @@
 \usepackage{graphicx}
 \usepackage{titlepic}
 \usepackage{hyperref}
-\usepackage{float}
 \hypersetup{
 	colorlinks=false
 }
+\usepackage{float}
+\usepackage{tabu}
+\usepackage{longtable}
+\usepackage{color}
 
 
 \title{Projekthandbuch}
 \titlepic{\includegraphics[width=0.3\textwidth]{images/lindale-logo}}
-\subtitle{v1.0}
+\subtitle{v1.2.1}
 \author{Jeremias Eppler, Jochen Morent, Georgi Georgiev}
 
 \begin{document}
@@ -24,11 +27,14 @@
 \tableofcontents
 
 \include{parts/Projektstart}
+\include{parts/Projektorganisation}
 
 \include{parts/Projektstrukturplan}
 
 \include{parts/Projektmeilenstein}
+\include{parts/Projektbalkenplan}
 
-\include{parts/Projektorganisation}
+
+\include{parts/Projektfortschrittsbericht}
 
 \end{document}
