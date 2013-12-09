@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.11.22)  8 DEC 2013 19:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.11.22)  9 DEC 2013 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,7 +436,7 @@ Package color Info: Driver file: pdftex.def on input line 130.
 (./parts/Projektorganisation.aux) (./parts/Projektstrukturplan.aux)
 (./parts/arbeitspakete-spezifikation.aux) (./parts/Projektmeilensteinplan.aux)
 (./parts/Projektbalkenplan.aux) (./parts/Projektfortschrittsbericht.aux)
-(./parts/ProjektScoreCard.aux))
+(./parts/ProjektScoreCard.aux) (./parts/terminplanLindale.aux))
 \openout1 = `projekthandbuch.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -514,7 +514,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 (c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/lindale-logo.png, id=48, 286.671pt x 128.1588pt>
+<images/lindale-logo.png, id=52, 286.671pt x 128.1588pt>
 File: images/lindale-logo.png Graphic file (type png)
 
 <use images/lindale-logo.png>
@@ -573,7 +573,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-<images/sachlicher-kontext.png, id=77, 1228.8309pt x 973.4769pt>
+<images/sachlicher-kontext.png, id=82, 1228.8309pt x 973.4769pt>
 File: images/sachlicher-kontext.png Graphic file (type png)
 
 <use images/sachlicher-kontext.png>
@@ -602,7 +602,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 8.
 
-<images/zeitlicher-kontext.png, id=85, 1201.1274pt x 769.6755pt>
+<images/zeitlicher-kontext.png, id=90, 1201.1274pt x 769.6755pt>
 File: images/zeitlicher-kontext.png Graphic file (type png)
 
 <use images/zeitlicher-kontext.png>
@@ -628,7 +628,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 14.
 
-<images/sozialer-kontetxt.png, id=92, 1015.3935pt x 591.1686pt>
+<images/sozialer-kontetxt.png, id=97, 1015.3935pt x 591.1686pt>
 File: images/sozialer-kontetxt.png Graphic file (type png)
 
 <use images/sozialer-kontetxt.png>
@@ -659,7 +659,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<images/projektorganisation.png, id=99, 774.7344pt x 935.8965pt>
+<images/projektorganisation.png, id=104, 774.7344pt x 935.8965pt>
 File: images/projektorganisation.png Graphic file (type png)
 
 <use images/projektorganisation.png>
@@ -698,7 +698,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<images/psp.png, id=106, 1776.3966pt x 1162.1016pt>
+<images/psp.png, id=111, 1776.3966pt x 1162.1016pt>
 File: images/psp.png Graphic file (type png)
  <use images/psp.png>
 Package pdftex.def Info: images/psp.png used on input line 3.
@@ -849,7 +849,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<images/balkenplan.png, id=153, 565.1514pt x 450.2421pt>
+<images/balkenplan.png, id=158, 565.1514pt x 450.2421pt>
 File: images/balkenplan.png Graphic file (type png)
 
 <use images/balkenplan.png>
@@ -920,7 +920,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<images/projekt-score-card.png, id=172, 1270.5066pt x 469.0323pt>
+<images/projekt-score-card.png, id=177, 1270.5066pt x 469.0323pt>
 File: images/projekt-score-card.png Graphic file (type png)
 
 <use images/projekt-score-card.png>
@@ -950,26 +950,68 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.39 \include{parts/ProjektScoreCard}
                                       <./images/projekt-score-card.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+\openout2 = `parts/terminplanLindale.aux'.
 
-(./projekthandbuch.aux (./parts/Projektstart.aux)
-(./parts/Projektorganisation.aux) (./parts/Projektstrukturplan.aux)
-(./parts/arbeitspakete-spezifikation.aux) (./parts/Projektmeilensteinplan.aux)
-(./parts/Projektbalkenplan.aux) (./parts/Projektfortschrittsbericht.aux)
-(./parts/ProjektScoreCard.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+
+(./parts/terminplanLindale.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]\T1/cmr/bx/n/10 Jochen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]\T1/cmr/bx/n/10 Jeremias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]\T1/cmr/bx/n/10 Georgi
+ []
+
+)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 41.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 41.
+ [20
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.3}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 \include{parts/terminplanLindale}
+                                      ]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+ (./projekthandbuch.aux
+(./parts/Projektstart.aux) (./parts/Projektorganisation.aux)
+(./parts/Projektstrukturplan.aux) (./parts/arbeitspakete-spezifikation.aux)
+(./parts/Projektmeilensteinplan.aux) (./parts/Projektbalkenplan.aux)
+(./parts/Projektfortschrittsbericht.aux) (./parts/ProjektScoreCard.aux)
+(./parts/terminplanLindale.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `projekthandbuch.out' has not changed.
-(rerunfilecheck)             Checksum: 3F3244C128E2DA8BB7090CFF59A0B62E;710.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+(rerunfilecheck)             Checksum: 7602BD5F371ED0AD1603AE747F6926F0;768.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 10018 strings out of 493315
- 145979 string characters out of 6141454
- 293986 words of memory out of 5000000
- 13209 multiletter control sequences out of 15000+600000
- 19983 words of font info for 57 fonts, out of 8000000 for 9000
+ 10066 strings out of 493315
+ 146662 string characters out of 6141454
+ 294381 words of memory out of 5000000
+ 13246 multiletter control sequences out of 15000+600000
+ 20751 words of font info for 58 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,14n,47p,342b,984s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
@@ -979,16 +1021,17 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2013/texmf-dist
 ts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/p
 ublic/cm-super/sfbx1000.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-s
 uper/sfbx1200.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm0
-900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c
-:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/
-2013/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2013/texmf
--dist/fonts/type1/public/cm-super/sfsx1000.pfb><c:/texlive/2013/texmf-dist/font
-s/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pu
-blic/cm-super/sfsx2074.pfb>
-Output written on projekthandbuch.pdf (19 pages, 2346589 bytes).
+700.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c
+:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/
+2013/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2013/texmf
+-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2013/texmf-dist/font
+s/type1/public/cm-super/sfsx1000.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pu
+blic/cm-super/sfsx1440.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-su
+per/sfsx2074.pfb>
+Output written on projekthandbuch.pdf (20 pages, 2378942 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 183 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 250 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
