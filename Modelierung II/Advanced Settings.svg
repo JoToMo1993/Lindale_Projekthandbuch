@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="524.40942"
+   id="svg4545"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Advanced Settings.svg">
+  <defs
+     id="defs4547" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2279853"
+     inkscape:cx="353.40357"
+     inkscape:cy="313.90517"
+     inkscape:current-layer="layer1"
+     id="namedview4549"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4551">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-219.68503)">
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4554"
+       width="709.41858"
+       height="481.39117"
+       x="17.274803"
+       y="22.288492"
+       transform="translate(0,219.68503)" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.99666226;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4556"
+       width="708.41425"
+       height="0.35766846"
+       x="17.561049"
+       y="271.91486" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="27.639685"
+       y="44.16991"
+       id="text4558"
+       sodipodi:linespacing="125%"
+       transform="translate(0,219.68503)"><tspan
+         sodipodi:role="line"
+         id="tspan4560"
+         x="27.639685"
+         y="44.16991">Advanced Modus Settings</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.99635935;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4556-6"
+       width="707.60022"
+       height="0.35797131"
+       x="18.302576"
+       y="442.04016" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.307873"
+       y="89.084396"
+       id="text4598"
+       sodipodi:linespacing="125%"
+       transform="translate(0,219.68503)"><tspan
+         sodipodi:role="line"
+         id="tspan4600"
+         x="40.307873"
+         y="89.084396">File Operations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="59.885983"
+       y="131.69559"
+       id="text4602"
+       sodipodi:linespacing="125%"
+       transform="translate(0,219.68503)"><tspan
+         sodipodi:role="line"
+         id="tspan4604"
+         x="59.885983"
+         y="131.69559">- Verschieben</tspan><tspan
+         sodipodi:role="line"
+         x="59.885983"
+         y="151.69559"
+         id="tspan4606">- Kopieren</tspan><tspan
+         sodipodi:role="line"
+         x="59.885983"
+         y="171.69559"
+         id="tspan4608">- Löschen</tspan><tspan
+         sodipodi:role="line"
+         x="59.885983"
+         y="191.69559"
+         id="tspan4610">- Umbenennen</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.79182923;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4612"
+       width="12.381399"
+       height="12.381399"
+       x="173.72746"
+       y="340.82339" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.79182923;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4612-7"
+       width="12.381399"
+       height="12.381399"
+       x="173.72746"
+       y="359.98181" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.79182923;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4612-5"
+       width="12.381399"
+       height="12.381399"
+       x="173.72746"
+       y="379.1402" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.79182923;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4612-4"
+       width="12.381399"
+       height="12.381399"
+       x="173.72746"
+       y="398.29861" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.307873"
+       y="476.04291"
+       id="text4598-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4600-2"
+         x="40.307873"
+         y="476.04291">Player</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.41632402;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4674"
+       width="175.66721"
+       height="37.229065"
+       x="54.269073"
+       y="486.47055" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.36251128;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4676"
+       width="52.755367"
+       height="26.696434"
+       x="62.38559"
+       y="491.32968" />
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.87620366;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4678"
+       width="97.030495"
+       height="27.811424"
+       x="123.7515"
+       y="490.77219" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="67.590385"
+       y="292.32196"
+       id="text4680"
+       sodipodi:linespacing="125%"
+       transform="translate(0,219.68503)"><tspan
+         sodipodi:role="line"
+         id="tspan4682"
+         x="67.590385"
+         y="292.32196">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="130.32813"
+       y="512.00702"
+       id="text4684"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4686"
+         x="130.32813"
+         y="512.00702">Kommando</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.64676893;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4688"
+       width="41.884674"
+       height="23.969151"
+       x="52.755615"
+       y="541.14667" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="58.632626"
+       y="339.5538"
+       id="text4690"
+       sodipodi:linespacing="125%"
+       transform="translate(0,219.68503)"><tspan
+         sodipodi:role="line"
+         id="tspan4692"
+         x="58.632626"
+         y="339.5538">add</tspan></text>
+  </g>
+</svg>

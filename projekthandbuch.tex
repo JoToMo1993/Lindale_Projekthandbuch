@@ -16,28 +16,60 @@
 \usepackage{longtable}
 \usepackage{color}
 
+\definecolor{sehrGut     }{rgb}{.000,.678,.000}
+\definecolor{gut         }{rgb}{.490,.651,.278}
+\definecolor{okay        }{rgb}{.678,.655,.624}
+\definecolor{schlecht    }{rgb}{.863,.137,.000}
+\definecolor{sehrSchlecht}{rgb}{1   ,.000,.000}
+
+\newcommand*{\sehrGut     }{\textcolor{sehrGut     }{\textbf{Sehr Gut}}}
+\newcommand*{\gut         }{\textcolor{gut         }{\textbf{Gut}}}
+\newcommand*{\okay        }{\textcolor{okay        }{\textbf{Okay}}}
+\newcommand*{\schlecht    }{\textcolor{schlecht    }{\textbf{Schlecht}}}
+\newcommand*{\sehrSchlecht}{\textcolor{sehrSchlecht}{\textbf{Sehr Schlecht}}}
 
 \title{Projekthandbuch}
 \titlepic{\includegraphics[width=0.3\textwidth]{images/lindale-logo}}
-\subtitle{v1.2.1}
+\subtitle{v1.2.5}
 \author{Jeremias Eppler, Jochen Morent, Georgi Georgiev}
-
 \begin{document}
 \maketitle
-\tableofcontents
+%\tableofcontents
+%-----------------------------------------------
+\newpage
+\chapter{Projektstart}
+	\section{Projekt-Kontext-Beziehungen}
+		\input{parts/Projektstart/Projekt-Kontext-Beziehungen/ZeitlicherKontext}
+		\newpage
+		\input{parts/Projektstart/Projekt-Kontext-Beziehungen/SachlicherKontext}
+		\newpage
+		\input{parts/Projektstart/Projekt-Kontext-Beziehungen/SozialerKontext}
+	\newpage
+	\section{Projektorganisation}
+		\input{parts/Projektstart/Projektorganisation/Projektorganigram}
+	\newpage
+	\section{Projektleistungsplan}
+		\input{parts/Projektstart/Projektleistungsplan/Projektstrukturplan}
+		\newpage
+		\input{parts/Projektstart/Projektleistungsplan/arbeitspakete-spezifikation}
+	\newpage
+	\section{Projektterminplanung}
+		\input{parts/Projektstart/Projektterminplanung/terminplanLindale}
+		\newpage
+		\input{parts/Projektstart/Projektterminplanung/Projektmeilensteinplan}
+		\newpage
+		\input{parts/Projektstart/Projektterminplanung/projektbalkenplan}
 
-\include{parts/Projektstart}
-\include{parts/Projektorganisation}
+%-----------------------------------------------
+\newpage
+\chapter{Projektcontrolling}
+	\input{parts/Projektcontrolling/Projektfortschrittsbericht}
+	\newpage
+	\input{parts/Projektcontrolling/ProjektScoreCard}
 
-\include{parts/Projektstrukturplan}
-\include{parts/arbeitspakete-spezifikation}
-
-\include{parts/Projektmeilensteinplan}
-\include{parts/Projektbalkenplan}
-
-\include{parts/Projektfortschrittsbericht}
-\include{parts/ProjektScoreCard}
-
-\include{parts/terminplanLindale}
+%-----------------------------------------------
+\newpage
+\chapter{Projektabschluss}
+	%\input{parts/Projektabschluss/projektabschlussbericht}
 
 \end{document}
